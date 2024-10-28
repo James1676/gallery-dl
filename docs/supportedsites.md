@@ -97,6 +97,12 @@ Consider all listed sites to potentially be NSFW.
     <td>Posts, Tag Searches</td>
     <td></td>
 </tr>
+    <tr>
+    <td>Coomer Party</td>
+    <td>https://www.coomerpartystuff.com/</td>
+    <td>Business Party, Business Stuff</td>
+    <td></td>
+</tr>
 <tr>
     <td>Architizer</td>
     <td>https://architizer.com/</td>
